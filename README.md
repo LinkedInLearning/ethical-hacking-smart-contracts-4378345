@@ -1,5 +1,5 @@
 # Smart Contract Ethical Hacking
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course Smart Contract Ethical Hacking. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![course-name-alt-text][lil-thumbnail-url] 
 
@@ -23,14 +23,11 @@ To resolve this issue:
 	Commit changes using this command: git commit -m "some message"
 
 ## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+1. To use these exercise files, no need to install anything, just make sure you go to https://remix.ethereum.org
+
+## Instructor
+My name is Michael Fawole,
+I am a blockchain developer and also a blockchain coach.
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
-
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
 
